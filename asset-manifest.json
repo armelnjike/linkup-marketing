@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/linkup-marketing/static/css/main.c34e53d8.css",
+    "main.js": "/linkup-marketing/static/js/main.622b036d.js",
+    "static/media/bg.png": "/linkup-marketing/static/media/bg.6c6571d8db112adfd753.png",
+    "static/media/about-9.png": "/linkup-marketing/static/media/about-9.e0aed03401d98f10cff6.png",
+    "static/media/portfolio-4.png": "/linkup-marketing/static/media/portfolio-4.cd221c9061d6616af071.png",
+    "static/media/about.png": "/linkup-marketing/static/media/about.1069979dc5ef860d657f.png",
+    "static/media/portfolio-2.png": "/linkup-marketing/static/media/portfolio-2.c410a8cd1c01297ee8f4.png",
+    "static/media/portfolio-6.png": "/linkup-marketing/static/media/portfolio-6.28cc51cbadcfc7204da7.png",
+    "static/media/logo.png": "/linkup-marketing/static/media/logo.8ef83a118e7d360f2c2f.png",
+    "static/media/portfolio-1.png": "/linkup-marketing/static/media/portfolio-1.6bf0323a068ff2d0aff1.png",
+    "static/media/portfolio-5.png": "/linkup-marketing/static/media/portfolio-5.7998a33c449fe065726b.png",
+    "static/media/blog-03.jpg": "/linkup-marketing/static/media/blog-03.1bced0df5ad80f8eeb76.jpg",
+    "static/media/blog-01.jpg": "/linkup-marketing/static/media/blog-01.67ebb920a48800aa0294.jpg",
+    "static/media/portfolio-3.png": "/linkup-marketing/static/media/portfolio-3.7310158cca688cb8cbdd.png",
+    "static/media/blog-02.jpg": "/linkup-marketing/static/media/blog-02.6ecd55ed4e6547e4ca0d.jpg",
+    "index.html": "/linkup-marketing/index.html",
+    "main.c34e53d8.css.map": "/linkup-marketing/static/css/main.c34e53d8.css.map",
+    "main.622b036d.js.map": "/linkup-marketing/static/js/main.622b036d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c34e53d8.css",
+    "static/js/main.622b036d.js"
+  ]
+}
